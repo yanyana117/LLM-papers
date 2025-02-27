@@ -65,3 +65,4 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
   - [Stanford explainer on CRISPR gene editing and beyond](https://news.stanford.edu/stories/2024/06/stanford-explainer-crispr-gene-editing-and-beyond)
   - [YouTube video: Introduction to CRISPR](https://www.youtube.com/watch?v=HANo__Z8K6s)
 
+## Genotype-Phenotype Associations
