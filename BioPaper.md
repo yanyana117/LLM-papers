@@ -66,3 +66,28 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
   - [YouTube video: Introduction to CRISPR](https://www.youtube.com/watch?v=HANo__Z8K6s)
 
 ## Genotype-Phenotype Associations
+
+
+- **[Deconstructing the sources of genotype-phenotype associations in humans](https://www.science.org/doi/full/10.1126/science.aax3710)
+  - **Keywords:** Genotype-Phenotype Associations
+  - **Publication:**
+  - **Study Organism：** Human
+  - **Paper Summary:** Details to be added later
+  - **Comments:** Genotype refers to variations in the human genome, phenotype refers to observable traits or disease outcomes.
+
+
+[NEED DELETE Reference:](https://app.undermind.ai/report/1740cd34564b043198b6d290e1f17cdc3971e5c69a4e8342c1264774e04173b4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
