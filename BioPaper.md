@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0072a78d-e6d3-40e2-9b2c-564171cae140)<img width="1105" alt="image" src="https://github.com/user-attachments/assets/2ff7bd5d-1f22-4e08-8707-a966bf6ea9ec" />This repository lists papers in the biology field and related with the following key works 
+
 
 Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interpretation; Ancient DNA; Multi-omics; Synthetic Biology; Evolutionary Genetics; Integrative Genomics; Gene Synthesis
 
