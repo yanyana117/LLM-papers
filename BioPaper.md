@@ -186,13 +186,30 @@ breeding populations](https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/
 
 
 - **[Divergent Allometric Trajectories in Gene Expression and Coexpression Produce Species Differences in Sympatrically Speciating Midas Cichlid Fish](https://academic.oup.com/gbe/article/11/6/1644/5498148)**
-  - **Keywords:**  RNA-Seq, coexpression, WGCNA, benthic-limnetic divergence, evolvability, gene modules
+   <!-- -  - **Keywords:**  RNA-Seq, coexpression, WGCNA, benthic-limnetic divergence, evolvability, gene modules
   - **Genotype vs Phenotype:** Gene coexpression vs Morphogenetic divergence (benthic vs limnetic forms)
-  - **Study Organism：** Midas cichlid (Amphilophus species)
-  - **Paper Summary:** This study investigates gene expression and coexpression differences in sympatrically speciating Midas cichlid fish using RNA-Seq. By analyzing two developmental stages, it identifies coexpression gene modules that differ between benthic and limnetic forms. The results indicate that gene coexpression divergence starts as early as one day post-hatch and becomes more pronounced as the fish grow. This study highlights the role of coexpressed gene networks, rather than single genes, in driving morphological divergence between ecotypes.
-  - **Year:** 2019
+  - **Study Organism：** Midas cichlid (Amphilophus species) -->
+  <!-- - **Paper Summary:** -->
+   This study investigates gene expression and coexpression differences in sympatrically speciating Midas cichlid fish using RNA-Seq. By analyzing two developmental stages, it identifies coexpression gene modules that differ between benthic and limnetic forms. The results indicate that gene coexpression divergence starts as early as one day post-hatch and becomes more pronounced as the fish grow. This study highlights the role of coexpressed gene networks, rather than single genes, in driving morphological divergence between ecotypes.
+  <!-- - **Year:** 2019 -->
 
 
+1. **[Identification of Genetic Variants Underlying Anxiety and Multiple Sclerosis in Heterogeneous Stock Rats](https://www.scirp.org/html/2-1390190_46654.htm)**
+   
+   This study used genetic mapping and sequencing in heterogeneous stock rats to identify genotype-phenotype associations in anxiety and multiple sclerosis. Key genes include Ctnnd2, linked to anxiety-related response latency, ABCB10, affecting red blood cell volume, and Btnl2 and RT1-Db1 in the MHC region, associated with autoimmune encephalomyelitis. The findings demonstrate the power of genome-wide association and sequencing in uncovering genetic influences on complex traits.
+
+
+1. **[A Single Amino Acid Mutation Contributes to Adaptive Beach Mouse Color Pattern](https://www.science.org/doi/10.1126/science.1126121)**
+
+   This study identified a Mc1r mutation in beach mice that reduces receptor function, contributing to their adaptive light coloration for crypsis. Genetic analysis showed that Mc1r variation explains a significant portion of pigmentation differences, but similar coloration in Atlantic coast mice arises from different mechanisms. The findings demonstrate how a single amino acid change in a pigmentation gene drives adaptive evolution in natural populations.
+
+1. **[The genetic basis of adaptive melanism in pocket mice](https://www.pnas.org/doi/abs/10.1073/pnas.0431157100)**
+
+  This study identified four Mc1r mutations responsible for adaptive melanism in lava-dwelling rock pocket mice, aiding predator avoidance. A separate melanic population lacked Mc1r mutations, suggesting independent genetic pathways for similar adaptation. The findings highlight convergent evolution through different molecular mechanisms.
+
+
+1. **[Genetic and developmental basis for fin shape variation in African cichlid fishes](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13905?casa_token=wxrZhZM09HwAAAAA:G6RvMCUy0SpcFZEGlGo0BcEEwS8fQ4MvvDkar3Pa1Wlxp_-QLypRM8E1CTWg6GL6grXalUG_SiPfkws)**
+  This study identified wnt7aa and col1a1 as key genes influencing pectoral fin shape variation in African cichlids. wnt7aa affects fin elongation, while col1a1 regulates the number of fin ray elements. Genetic mapping and genome scans showed that fin shape evolves independently of body and craniofacial traits, likely due to selective pressures rather than genetic linkage. Experimental validation confirmed these genes’ roles in fin development, highlighting their contribution to morphological divergence in adaptive radiation.
 -----------------------------------
 
 Reference:](https://app.undermind.ai/report/1740cd34564b043198b6d290e1f17cdc3971e5c69a4e8342c1264774e04173b4)
