@@ -207,12 +207,69 @@ breeding populations](https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/
 
    This study identified four Mc1r mutations responsible for adaptive melanism in lava-dwelling rock pocket mice, aiding predator avoidance. A separate melanic population lacked Mc1r mutations, suggesting independent genetic pathways for similar adaptation. The findings highlight convergent evolution through different molecular mechanisms.
 
-
 1. **[Genetic and developmental basis for fin shape variation in African cichlid fishes](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13905?casa_token=wxrZhZM09HwAAAAA:G6RvMCUy0SpcFZEGlGo0BcEEwS8fQ4MvvDkar3Pa1Wlxp_-QLypRM8E1CTWg6GL6grXalUG_SiPfkws)**
    
    This study identified wnt7aa and col1a1 as key genes influencing pectoral fin shape variation in African cichlids. wnt7aa affects fin elongation, while col1a1 regulates the number of fin ray elements. Genetic mapping and genome scans showed that fin shape evolves independently of body and craniofacial traits, likely due to selective pressures rather than genetic linkage. Experimental validation confirmed these genes’ roles in fin development, highlighting their contribution to morphological divergence in adaptive radiation.
+
+1. **[Candidate Gene Analysis Suggests Untapped Genetic Complexity in Melanin-Based Pigmentation in Bird](https://academic.oup.com/jhered/article-abstract/107/4/327/2622968?redirectedFrom=fulltext)**
+
+   This study identified Corin and TYRP1 as key genes influencing melanin-based plumage variation in the Réunion grey white-eye, with allele shifts between lowland and highland forms suggesting balancing selection in the polymorphic highland population. In contrast, Agouti, a common pigmentation gene, showed no association with color forms. These findings highlight unexplored genetic complexity in avian pigmentation beyond traditionally studied loci.
+
+1. **[A Val85Met Mutation in Melanocortin-1 Receptor Is Associated with Reductions in Eumelanic Pigmentation and Cell Surface Expression in Domestic Rock Pigeons (Columba livia)
+](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074475)**
+
+   This study identified a Val85Met mutation associated with reduced eumelanin pigmentation in domestic rock pigeons. Functional assays showed that this mutation decreases receptor activity and cell surface expression, leading to pheomelanism instead of eumelanism.
+
+1. **[Avian Coloration Genetics: Recent Advances and Emerging Questions](https://academic.oup.com/jhered/article/112/5/395/6272461)**
+
+   Bird coloration results from interactions between pigment genes (carotenoids for red, yellow, orange; psittacofulvins in parrots) and structural genes that manipulate light at the nanoscale. Recent advances suggest co-expression or co-regulation of these genes influences mixed-color traits, while structural color genetics remain underexplored. Genetic insights continue to drive discoveries linking color production to vision and speciation.
+
+1. **[Genetics, development and evolution of adaptive pigmentation in vertebrates
+](https://www.nature.com/articles/6800861)**
+
+   ​This article examines how pigmentation has served as a model for understanding the genetic, developmental, and evolutionary mechanisms in vertebrates. It highlights that mutations in specific genes, such as Mc1r and Agouti, can lead to variations in melanin production, resulting in diverse coloration patterns. These genetic changes often correlate with environmental adaptations, providing insights into the molecular basis of organismal diversity and the evolutionary process.   
+
+1. **[Transcriptomics of colour patterning and coloration shifts in crows](https://onlinelibrary.wiley.com/doi/10.1111/mec.13353)**
+
+   This study reveals that eumelanin-based plumage differences between black carrion crows and grey-coated hooded crows result from gene expression variation. ASIP, CORIN, and ALDH6 regulate regional pigmentation through prepatterning, while HPGDS, NDP, and RASGRF1, under MITF control, drive color-specific expression. These findings suggest that stable prepatterns, modified by regulatory changes, shape recurrent color patterns across vertebrates.
+
+1. **[Extensive hybridization reveals multiple coloration genes underlying a complex plumage phenotype](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1805)**
+
+   ​In North American flickers, extensive hybridization between yellow-shafted and red-shafted forms has revealed that multiple genes influence their distinct plumage coloration. Analysis of approximately 7.25 million genome-wide SNPs identified 368 SNPs significantly associated with four of six plumage patches. Notably, the gene CYP2J19, known to affect color transitions in other birds, is strongly linked to the yellow versus red differences in wing and tail feathers.
+ 
+1. **[Admixture mapping in a hybrid zone reveals loci associated with avian feather coloration](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.1106)**
+
+   In a hybrid zone between Audubon's and myrtle warblers, researchers identified multiple genomic regions associated with plumage coloration traits. Notably, the SCARF2 gene was linked to carotenoid-based throat color differences, while a specific region on chromosome 20 was associated with melanin-based eye line and eye spot coloration. These findings highlight the genetic basis of feather coloration in these species.
+
+1. **[Differential gene regulation underlies variation in melanic plumage coloration in the dark-eyed junco (Junco hyemalis)](https://onlinelibrary.wiley.com/doi/10.1111/mec.14878)**
+
+   Melanic plumage differences between slate-colored and Oregon juncos result from differential gene regulation rather than coding mutations. Lighter feathers show downregulation of PMEL, TYR, TYRP1, OCA2, MLANA (melanin synthesis) and upregulation of ASIP. Feathers from different body regions exhibit distinct HOX and WNT gene expression patterns, while ASIP, MFSD12, KCNJ13, and HAND2 regulate color differences between subspecies. These findings highlight how gene regulation, rather than sequence variation, drives rapid plumage diversification.
+
+1. **[Genome-wide association mapping identifies the genetic basis of discrete and quantitative variation in sexual weaponry in a wild sheep population](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05076.x)**
+
+   In Soay sheep, horn morphology is controlled by RXFP2, an autosomal gene that determines whether individuals develop normal horns, scurs, or no horns. A genome-wide association study identified RXFP2 as the primary locus influencing this trait, explaining up to 76% of the additive genetic variation in horn size among normal-horned males. This study establishes a genetic basis for horn polymorphism and provides insights into the persistence of this trait despite natural selection pressures.
+
+1. **[Heterogeneity of genetic architecture of body size traits in a free-living population](https://onlinelibrary.wiley.com/doi/10.1111/mec.13146)**
+
+   In Soay sheep, body size traits exhibit distinct genetic architectures. Jaw size and weight follow a polygenic model with no single SNP driving variation, while leg length is influenced by two major SNPs on chromosomes 16 (s23172.1) and 19 (s74894.1), each explaining over 10% of additive genetic variance. Females heterozygous for s74894.1 had higher lifetime reproductive success than those homozygous for the long-leg allele. Short-leg alleles likely originated from historic admixture with Dunface sheep, highlighting selection pressures and evolutionary history shaping quantitative traits.
+
+1. **[Association mapping of morphological traits in wild and captive zebra finches: reliable within, but not between populations](https://onlinelibrary.wiley.com/doi/10.1111/mec.14009)**
+
+   In zebra finches, association mapping of morphological traits identified 672 SNPs within candidate genes from previously mapped QTL regions. While genotype-phenotype associations were weak in wild populations due to short linkage disequilibrium (LD) blocks, captive populations with larger LD blocks showed strong and repeatable associations. However, effect direction and magnitude varied across populations, suggesting that these SNPs are linked to but not the causal QTN. The study highlights how founder effects influence LD patterns, affecting trait mapping reliability across populations.
+
+1. **[Comparative genomics of two Empidonax flycatchers reveal candidate genes for bird song production](https://academic.oup.com/evolut/article/77/8/1818/7186177)**
+
+   In Empidonax flycatchers, genomic comparisons identified six highly differentiated regions linked to differences in innate vocal signals. Among 67 genes in these regions, three are associated with language impairment and dyslexia in humans, while 18 show differential expression in avian song nuclei. These findings suggest a genetic basis for species-specific song production and provide candidate loci for further studies on vocalization in birds.
+
+1. **[Transcriptomics of colour patterning and coloration shifts in crows](https://onlinelibrary.wiley.com/doi/10.1111/mec.13353)**
+
+   In carrion and hooded crows, differences in eumelanin-based plumage result from differential gene expression rather than sequence variation. ASIP, CORIN, and ALDH6 regulate regional pigmentation, indicating a cryptic prepatterning mechanism. HPGDS, NDP, and RASGRF1, linked to MITF, drive color-specific expression, distinguishing black and grey plumage. These findings suggest that evolutionary stable prepatterns, modified through regulatory changes, shape recurring coloration patterns in birds.
+
+
 -----------------------------------
 
+1. **[]()
+   
 Reference:](https://app.undermind.ai/report/1740cd34564b043198b6d290e1f17cdc3971e5c69a4e8342c1264774e04173b4)
 (https://app.undermind.ai/report/1740cd34564b043198b6d290e1f17cdc3971e5c69a4e8342c1264774e04173b4)
 
