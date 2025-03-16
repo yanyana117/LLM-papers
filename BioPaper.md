@@ -205,11 +205,12 @@ breeding populations](https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/
 
 1. **[The genetic basis of adaptive melanism in pocket mice](https://www.pnas.org/doi/abs/10.1073/pnas.0431157100)**
 
-  This study identified four Mc1r mutations responsible for adaptive melanism in lava-dwelling rock pocket mice, aiding predator avoidance. A separate melanic population lacked Mc1r mutations, suggesting independent genetic pathways for similar adaptation. The findings highlight convergent evolution through different molecular mechanisms.
+   This study identified four Mc1r mutations responsible for adaptive melanism in lava-dwelling rock pocket mice, aiding predator avoidance. A separate melanic population lacked Mc1r mutations, suggesting independent genetic pathways for similar adaptation. The findings highlight convergent evolution through different molecular mechanisms.
 
 
 1. **[Genetic and developmental basis for fin shape variation in African cichlid fishes](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13905?casa_token=wxrZhZM09HwAAAAA:G6RvMCUy0SpcFZEGlGo0BcEEwS8fQ4MvvDkar3Pa1Wlxp_-QLypRM8E1CTWg6GL6grXalUG_SiPfkws)**
-  This study identified wnt7aa and col1a1 as key genes influencing pectoral fin shape variation in African cichlids. wnt7aa affects fin elongation, while col1a1 regulates the number of fin ray elements. Genetic mapping and genome scans showed that fin shape evolves independently of body and craniofacial traits, likely due to selective pressures rather than genetic linkage. Experimental validation confirmed these genes’ roles in fin development, highlighting their contribution to morphological divergence in adaptive radiation.
+   
+   This study identified wnt7aa and col1a1 as key genes influencing pectoral fin shape variation in African cichlids. wnt7aa affects fin elongation, while col1a1 regulates the number of fin ray elements. Genetic mapping and genome scans showed that fin shape evolves independently of body and craniofacial traits, likely due to selective pressures rather than genetic linkage. Experimental validation confirmed these genes’ roles in fin development, highlighting their contribution to morphological divergence in adaptive radiation.
 -----------------------------------
 
 Reference:](https://app.undermind.ai/report/1740cd34564b043198b6d290e1f17cdc3971e5c69a4e8342c1264774e04173b4)
